@@ -10,6 +10,7 @@
     <PackageProjectUrl>https://github.com/eimigueloliveir/InstaNET</PackageProjectUrl>
     <PackageIcon>InstagramNET.png</PackageIcon>
     <RepositoryUrl>https://github.com/eimigueloliveir/InstaNET</RepositoryUrl>
+    <PackageTags>C#;.NET; Insta; instagram;instagram-api;api;media;video;download;</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
