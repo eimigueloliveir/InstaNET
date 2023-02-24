@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaNET", "InstaNET\InstaNET.csproj", "{486B0108-4C93-4D51-A43B-F8DA1366C22E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstaNET.Test", "InstaNET.Test\InstaNET.Test.csproj", "{912D25F0-CDB4-47AA-A978-241948F38A27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{486B0108-4C93-4D51-A43B-F8DA1366C22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486B0108-4C93-4D51-A43B-F8DA1366C22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486B0108-4C93-4D51-A43B-F8DA1366C22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486B0108-4C93-4D51-A43B-F8DA1366C22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{912D25F0-CDB4-47AA-A978-241948F38A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912D25F0-CDB4-47AA-A978-241948F38A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912D25F0-CDB4-47AA-A978-241948F38A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912D25F0-CDB4-47AA-A978-241948F38A27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {576C4D1B-A2B7-48FB-BBEA-ACA3421B9A5D}
+	EndGlobalSection
+EndGlobal
